@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Schedule Example</string>
+
+    <string-array name="name_array">
+        <item>Ewan</item>
+        <item>Mindy</item>
+        <item>Jordan</item>
+        <item>Marek</item>
+        <item>Danni</item>
+        <item>Hamza</item>
+        <item>Lamar</item>
+        <item>Devan</item>
+        <item>Javan</item>
+        <item>Jorden</item>
+        <item>Adriana</item>
+        <item>Kristina</item>
+        <item>Harvey</item>
+        <item>Raheel</item>
+        <item>Jez</item>
+        <item>Tanisha</item>
+        <item>Ashlyn</item>
+        <item>Milla</item>
+        <item>Denis</item>
+        <item>Harmony</item>
+    </string-array>
+
+    <string-array name="lname_array">
+        <item>Wills</item>
+        <item>Dominguez</item>
+        <item>Drummond</item>
+        <item>Mckinney</item>
+        <item>Oconnor</item>
+        <item>Chan</item>
+        <item>Harper</item>
+        <item>Heaton</item>
+        <item>Riley</item>
+        <item>Colon</item>
+        <item>Lutz</item>
+        <item>Allen</item>
+        <item>Dougherty</item>
+        <item>Torres</item>
+        <item>Houghton</item>
+        <item>Whyte</item>
+        <item>Connelly</item>
+        <item>Gilbert</item>
+        <item>Strickland</item>
+        <item>Howard</item>
+    </string-array>
+</resources>
